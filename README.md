@@ -1,18 +1,20 @@
-## Getting Started
+Hola!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esta aplicación te servirá para poder ingresar 10 dígitos los cuáles luego tu podrás elegir si deseas sumarlos, que te muestre cuál es el mayor y cuál es el menor, 
+ordenarlos del último ingresado al primer ingresado o simplemente visualizar los datos.
 
-## Folder Structure
+Para poder correr esta aplicación necesitas:
 
-The workspace contains two folders by default, where:
+1. Instala Visual Code, puedes descargarlo del siguiente enlace: https://code.visualstudio.com/
+2. Instala las extensiones requeridas para ejecutar aplicaciones JAVA.
+3. Ve al panel de extensiones y allí busca java, instala la extensión "Extension Pack for Java".
+4. Instala el JDK, puedes descargarlo de aquí: https://www.oracle.com/java/technologies/downloads/
+5. Ve a File → Open File → Busca el directorio donde hayas descargado las aplicaciones → abre la aplicación que desees ejecutar.
+6. Por último dale clic al botón de play para poder ejecutar el código.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Espero que te sean de utilidad, si necesitas soporte puedes escribirme a hmendozag3@miumg.edu.gt
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Adiós!
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
